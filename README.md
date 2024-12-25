@@ -51,7 +51,7 @@ email_sender_script/
 ├── emails.csv          # Contains recipient names and emails
 ├── certificates/       # Directory for PDF attachments
 ├── .env                # Environment variables
-├── script.py           # Main Python script
+├── app.py           # Main Python script
 ├── README.md           # Documentation
 └── requirements.txt    # List of Python dependencies
 ```
@@ -84,7 +84,7 @@ Raport template Ora sfiduese - Filan Fisteku - Web Fundamentals.pdf
 Execute the script using the following command:
 
 ```bash
-python script.py
+python app.py
 ```
 
 The script will:
